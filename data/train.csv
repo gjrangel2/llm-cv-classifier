@@ -1,0 +1,601 @@
+text,label
+"MySQL, Java, PostgreSQL",0
+"Spring Boot, PostgreSQL, MySQL",0
+"Java, Spring Boot, PostgreSQL",0
+"PostgreSQL, REST APIs, MySQL",0
+"Java, Spring Boot, MySQL",0
+"REST APIs, Spring Boot, MySQL",0
+"Spring Boot, Java, PostgreSQL",0
+"REST APIs, Java, PostgreSQL",0
+"PostgreSQL, Java, Spring Boot",0
+"Java, REST APIs, PostgreSQL",0
+"PostgreSQL, MySQL, REST APIs",0
+"Spring Boot, PostgreSQL, MySQL",0
+"REST APIs, MySQL, Spring Boot",0
+"PostgreSQL, MySQL, Spring Boot",0
+"REST APIs, Java, Spring Boot",0
+"PostgreSQL, MySQL, REST APIs",0
+"MySQL, REST APIs, PostgreSQL",0
+"PostgreSQL, Spring Boot, Java",0
+"MySQL, Spring Boot, Java",0
+"MySQL, Java, Spring Boot",0
+"REST APIs, Spring Boot, PostgreSQL",0
+"MySQL, Spring Boot, PostgreSQL",0
+"Java, Spring Boot, PostgreSQL",0
+"REST APIs, Java, Spring Boot",0
+"PostgreSQL, Java, REST APIs",0
+"Spring Boot, MySQL, PostgreSQL",0
+"Spring Boot, REST APIs, PostgreSQL",0
+"Spring Boot, PostgreSQL, MySQL",0
+"REST APIs, MySQL, PostgreSQL",0
+"MySQL, Java, PostgreSQL",0
+"MySQL, Java, PostgreSQL",0
+"Java, Spring Boot, PostgreSQL",0
+"PostgreSQL, Spring Boot, REST APIs",0
+"MySQL, Java, Spring Boot",0
+"MySQL, PostgreSQL, Spring Boot",0
+"PostgreSQL, MySQL, Java",0
+"PostgreSQL, MySQL, Java",0
+"REST APIs, PostgreSQL, MySQL",0
+"MySQL, REST APIs, PostgreSQL",0
+"MySQL, REST APIs, Java",0
+"Java, REST APIs, PostgreSQL",0
+"REST APIs, PostgreSQL, Java",0
+"Spring Boot, REST APIs, PostgreSQL",0
+"Spring Boot, MySQL, Java",0
+"REST APIs, MySQL, PostgreSQL",0
+"MySQL, Java, PostgreSQL",0
+"Spring Boot, MySQL, REST APIs",0
+"REST APIs, PostgreSQL, Java",0
+"Java, MySQL, PostgreSQL",0
+"REST APIs, Java, PostgreSQL",0
+"PostgreSQL, MySQL, Java",0
+"Spring Boot, REST APIs, PostgreSQL",0
+"Java, REST APIs, Spring Boot",0
+"PostgreSQL, REST APIs, Spring Boot",0
+"MySQL, Spring Boot, Java",0
+"REST APIs, Spring Boot, MySQL",0
+"Java, PostgreSQL, Spring Boot",0
+"PostgreSQL, MySQL, Java",0
+"REST APIs, Spring Boot, PostgreSQL",0
+"REST APIs, Java, Spring Boot",0
+"Spring Boot, REST APIs, MySQL",0
+"REST APIs, Java, PostgreSQL",0
+"MySQL, Spring Boot, PostgreSQL",0
+"REST APIs, Java, PostgreSQL",0
+"REST APIs, PostgreSQL, Spring Boot",0
+"Spring Boot, REST APIs, MySQL",0
+"Java, REST APIs, PostgreSQL",0
+"Java, MySQL, Spring Boot",0
+"PostgreSQL, Spring Boot, Java",0
+"PostgreSQL, Spring Boot, REST APIs",0
+"REST APIs, PostgreSQL, Spring Boot",0
+"PostgreSQL, Java, MySQL",0
+"Java, PostgreSQL, REST APIs",0
+"REST APIs, PostgreSQL, MySQL",0
+"REST APIs, PostgreSQL, Spring Boot",0
+"MySQL, Java, PostgreSQL",0
+"PostgreSQL, Spring Boot, MySQL",0
+"REST APIs, Java, MySQL",0
+"Java, MySQL, REST APIs",0
+"REST APIs, Java, Spring Boot",0
+"PostgreSQL, Java, REST APIs",0
+"MySQL, Java, REST APIs",0
+"Java, PostgreSQL, REST APIs",0
+"PostgreSQL, Java, MySQL",0
+"PostgreSQL, MySQL, REST APIs",0
+"REST APIs, Java, MySQL",0
+"MySQL, REST APIs, Spring Boot",0
+"Java, MySQL, Spring Boot",0
+"MySQL, Spring Boot, Java",0
+"MySQL, PostgreSQL, Spring Boot",0
+"PostgreSQL, REST APIs, Java",0
+"Java, Spring Boot, PostgreSQL",0
+"Java, MySQL, REST APIs",0
+"Spring Boot, PostgreSQL, MySQL",0
+"MySQL, PostgreSQL, Spring Boot",0
+"Java, REST APIs, PostgreSQL",0
+"PostgreSQL, MySQL, REST APIs",0
+"PostgreSQL, REST APIs, MySQL",0
+"REST APIs, MySQL, Spring Boot",0
+"MySQL, Java, REST APIs",0
+"React, Angular, Responsive design",1
+"React, CSS, Responsive design",1
+"TypeScript, Responsive design, React",1
+"Angular, React, Responsive design",1
+"Angular, Responsive design, CSS",1
+"Angular, CSS, Responsive design",1
+"CSS, TypeScript, React",1
+"React, CSS, Angular",1
+"Responsive design, React, Angular",1
+"Angular, TypeScript, Responsive design",1
+"React, CSS, Angular",1
+"Responsive design, CSS, TypeScript",1
+"CSS, Angular, Responsive design",1
+"Responsive design, React, Angular",1
+"Angular, Responsive design, CSS",1
+"React, TypeScript, Angular",1
+"TypeScript, CSS, Angular",1
+"React, Angular, TypeScript",1
+"React, Angular, CSS",1
+"Responsive design, Angular, TypeScript",1
+"React, Angular, CSS",1
+"Responsive design, React, CSS",1
+"Responsive design, CSS, Angular",1
+"Responsive design, Angular, TypeScript",1
+"TypeScript, Responsive design, React",1
+"CSS, React, TypeScript",1
+"React, Responsive design, Angular",1
+"Responsive design, CSS, React",1
+"React, Angular, CSS",1
+"React, TypeScript, CSS",1
+"CSS, Angular, React",1
+"Responsive design, CSS, TypeScript",1
+"React, TypeScript, CSS",1
+"Angular, Responsive design, TypeScript",1
+"TypeScript, Angular, React",1
+"TypeScript, React, Responsive design",1
+"CSS, TypeScript, Angular",1
+"React, CSS, TypeScript",1
+"CSS, TypeScript, Responsive design",1
+"TypeScript, Responsive design, CSS",1
+"Angular, React, Responsive design",1
+"Angular, CSS, TypeScript",1
+"Angular, Responsive design, React",1
+"CSS, Responsive design, Angular",1
+"React, TypeScript, Responsive design",1
+"TypeScript, React, Responsive design",1
+"React, TypeScript, Responsive design",1
+"React, Angular, CSS",1
+"CSS, Responsive design, Angular",1
+"Responsive design, Angular, CSS",1
+"TypeScript, CSS, React",1
+"Angular, Responsive design, TypeScript",1
+"React, TypeScript, CSS",1
+"Angular, CSS, Responsive design",1
+"Responsive design, TypeScript, Angular",1
+"Responsive design, CSS, React",1
+"TypeScript, CSS, Angular",1
+"Angular, TypeScript, React",1
+"TypeScript, React, CSS",1
+"CSS, Angular, TypeScript",1
+"TypeScript, CSS, Responsive design",1
+"TypeScript, CSS, Angular",1
+"Angular, TypeScript, CSS",1
+"React, Responsive design, CSS",1
+"Responsive design, React, CSS",1
+"React, TypeScript, Responsive design",1
+"TypeScript, Responsive design, Angular",1
+"React, TypeScript, CSS",1
+"React, CSS, Responsive design",1
+"Responsive design, Angular, React",1
+"Angular, TypeScript, React",1
+"TypeScript, React, Responsive design",1
+"CSS, Responsive design, TypeScript",1
+"Responsive design, Angular, TypeScript",1
+"React, TypeScript, CSS",1
+"CSS, TypeScript, React",1
+"React, Angular, Responsive design",1
+"CSS, Responsive design, Angular",1
+"CSS, TypeScript, Angular",1
+"TypeScript, React, Angular",1
+"Responsive design, TypeScript, CSS",1
+"Responsive design, Angular, React",1
+"Responsive design, CSS, TypeScript",1
+"TypeScript, CSS, Responsive design",1
+"Responsive design, Angular, TypeScript",1
+"Angular, Responsive design, React",1
+"Angular, CSS, Responsive design",1
+"React, CSS, Angular",1
+"Angular, TypeScript, CSS",1
+"React, TypeScript, Responsive design",1
+"TypeScript, React, Angular",1
+"TypeScript, React, CSS",1
+"React, TypeScript, Responsive design",1
+"TypeScript, Angular, CSS",1
+"Responsive design, Angular, TypeScript",1
+"React, Angular, Responsive design",1
+"CSS, Responsive design, Angular",1
+"React, TypeScript, Angular",1
+"Responsive design, Angular, React",1
+"React, Angular, Responsive design",1
+"QA, Jest, Cypress",2
+"Automated testing, Jest, Selenium",2
+"Jest, QA, Automated testing",2
+"Automated testing, QA, Jest",2
+"QA, Jest, Cypress",2
+"Selenium, QA, Automated testing",2
+"Selenium, Automated testing, Jest",2
+"Automated testing, Jest, QA",2
+"Automated testing, Cypress, Jest",2
+"QA, Automated testing, Selenium",2
+"Selenium, Automated testing, Jest",2
+"Automated testing, Jest, QA",2
+"Automated testing, Cypress, Selenium",2
+"QA, Cypress, Automated testing",2
+"Cypress, Jest, QA",2
+"Jest, Cypress, QA",2
+"Selenium, Jest, QA",2
+"Selenium, Automated testing, Jest",2
+"Cypress, Selenium, Automated testing",2
+"Cypress, QA, Jest",2
+"Automated testing, QA, Jest",2
+"Jest, QA, Cypress",2
+"Cypress, Automated testing, Jest",2
+"Jest, QA, Selenium",2
+"Cypress, Selenium, Automated testing",2
+"Selenium, QA, Cypress",2
+"Automated testing, Selenium, Cypress",2
+"Jest, QA, Cypress",2
+"QA, Cypress, Automated testing",2
+"Jest, Selenium, QA",2
+"Jest, QA, Selenium",2
+"Automated testing, QA, Cypress",2
+"QA, Jest, Automated testing",2
+"Cypress, Selenium, Automated testing",2
+"Jest, Cypress, Selenium",2
+"Cypress, QA, Selenium",2
+"Automated testing, Cypress, Jest",2
+"Jest, QA, Automated testing",2
+"Automated testing, Cypress, QA",2
+"Automated testing, Cypress, QA",2
+"Automated testing, Selenium, Jest",2
+"Cypress, Automated testing, Jest",2
+"QA, Automated testing, Jest",2
+"Jest, QA, Cypress",2
+"Automated testing, Jest, Cypress",2
+"QA, Automated testing, Selenium",2
+"Jest, Automated testing, Cypress",2
+"Cypress, Selenium, Jest",2
+"Jest, Selenium, Cypress",2
+"Cypress, Jest, Selenium",2
+"QA, Selenium, Automated testing",2
+"Jest, QA, Cypress",2
+"Automated testing, Cypress, Jest",2
+"Jest, QA, Automated testing",2
+"Cypress, Selenium, Automated testing",2
+"Automated testing, Jest, Cypress",2
+"Cypress, Selenium, Automated testing",2
+"Selenium, QA, Automated testing",2
+"Jest, Automated testing, QA",2
+"Automated testing, Selenium, Cypress",2
+"QA, Automated testing, Jest",2
+"Jest, Selenium, QA",2
+"QA, Cypress, Selenium",2
+"Automated testing, Jest, Cypress",2
+"Cypress, Jest, QA",2
+"Selenium, Jest, Cypress",2
+"Automated testing, Cypress, QA",2
+"Cypress, QA, Jest",2
+"Selenium, Cypress, Automated testing",2
+"Selenium, Automated testing, Cypress",2
+"Selenium, Automated testing, Cypress",2
+"Cypress, Automated testing, Jest",2
+"QA, Jest, Cypress",2
+"Cypress, QA, Jest",2
+"Automated testing, Jest, Cypress",2
+"Cypress, Jest, Automated testing",2
+"Selenium, Automated testing, QA",2
+"Selenium, QA, Cypress",2
+"QA, Jest, Automated testing",2
+"Selenium, Automated testing, QA",2
+"Jest, Automated testing, Selenium",2
+"Cypress, Jest, Selenium",2
+"Jest, Selenium, Cypress",2
+"Automated testing, QA, Selenium",2
+"Cypress, Selenium, QA",2
+"QA, Cypress, Jest",2
+"Jest, Selenium, Automated testing",2
+"Cypress, Selenium, Automated testing",2
+"Jest, Selenium, Cypress",2
+"Automated testing, Selenium, Cypress",2
+"Selenium, Cypress, Jest",2
+"Automated testing, QA, Jest",2
+"Cypress, Jest, Selenium",2
+"Automated testing, Selenium, Cypress",2
+"Selenium, QA, Automated testing",2
+"QA, Automated testing, Jest",2
+"Selenium, Automated testing, Cypress",2
+"Cypress, Automated testing, Jest",2
+"Selenium, QA, Cypress",2
+"Jest, Automated testing, QA",2
+"normativa técnica, supervisión, RETILAP",3
+"instalaciones eléctricas, normativa técnica, RETILAP",3
+"instalaciones eléctricas, iluminación pública, RETILAP",3
+"iluminación pública, supervisión, RETILAP",3
+"normativa técnica, supervisión, RETILAP",3
+"normativa técnica, instalaciones eléctricas, supervisión",3
+"supervisión, normativa técnica, instalaciones eléctricas",3
+"normativa técnica, instalaciones eléctricas, RETILAP",3
+"iluminación pública, instalaciones eléctricas, normativa técnica",3
+"normativa técnica, RETILAP, supervisión",3
+"normativa técnica, RETILAP, supervisión",3
+"normativa técnica, iluminación pública, supervisión",3
+"RETILAP, instalaciones eléctricas, supervisión",3
+"supervisión, instalaciones eléctricas, iluminación pública",3
+"instalaciones eléctricas, iluminación pública, normativa técnica",3
+"iluminación pública, supervisión, instalaciones eléctricas",3
+"supervisión, instalaciones eléctricas, normativa técnica",3
+"normativa técnica, supervisión, instalaciones eléctricas",3
+"normativa técnica, instalaciones eléctricas, RETILAP",3
+"instalaciones eléctricas, RETILAP, normativa técnica",3
+"iluminación pública, RETILAP, normativa técnica",3
+"supervisión, instalaciones eléctricas, iluminación pública",3
+"normativa técnica, instalaciones eléctricas, supervisión",3
+"normativa técnica, supervisión, iluminación pública",3
+"instalaciones eléctricas, normativa técnica, RETILAP",3
+"iluminación pública, normativa técnica, supervisión",3
+"iluminación pública, RETILAP, supervisión",3
+"RETILAP, supervisión, normativa técnica",3
+"instalaciones eléctricas, RETILAP, supervisión",3
+"iluminación pública, supervisión, normativa técnica",3
+"supervisión, instalaciones eléctricas, normativa técnica",3
+"iluminación pública, instalaciones eléctricas, normativa técnica",3
+"supervisión, iluminación pública, normativa técnica",3
+"iluminación pública, supervisión, instalaciones eléctricas",3
+"iluminación pública, normativa técnica, instalaciones eléctricas",3
+"supervisión, RETILAP, instalaciones eléctricas",3
+"RETILAP, normativa técnica, instalaciones eléctricas",3
+"supervisión, RETILAP, iluminación pública",3
+"RETILAP, iluminación pública, instalaciones eléctricas",3
+"iluminación pública, normativa técnica, RETILAP",3
+"RETILAP, iluminación pública, supervisión",3
+"iluminación pública, instalaciones eléctricas, supervisión",3
+"RETILAP, supervisión, instalaciones eléctricas",3
+"iluminación pública, instalaciones eléctricas, normativa técnica",3
+"normativa técnica, iluminación pública, RETILAP",3
+"instalaciones eléctricas, normativa técnica, RETILAP",3
+"supervisión, iluminación pública, instalaciones eléctricas",3
+"normativa técnica, supervisión, RETILAP",3
+"iluminación pública, supervisión, instalaciones eléctricas",3
+"instalaciones eléctricas, normativa técnica, supervisión",3
+"RETILAP, instalaciones eléctricas, supervisión",3
+"RETILAP, instalaciones eléctricas, supervisión",3
+"RETILAP, iluminación pública, supervisión",3
+"iluminación pública, normativa técnica, supervisión",3
+"normativa técnica, instalaciones eléctricas, iluminación pública",3
+"normativa técnica, iluminación pública, RETILAP",3
+"supervisión, instalaciones eléctricas, normativa técnica",3
+"supervisión, instalaciones eléctricas, normativa técnica",3
+"RETILAP, supervisión, iluminación pública",3
+"normativa técnica, iluminación pública, instalaciones eléctricas",3
+"RETILAP, supervisión, iluminación pública",3
+"RETILAP, iluminación pública, supervisión",3
+"instalaciones eléctricas, normativa técnica, supervisión",3
+"iluminación pública, normativa técnica, RETILAP",3
+"normativa técnica, supervisión, RETILAP",3
+"supervisión, instalaciones eléctricas, RETILAP",3
+"RETILAP, normativa técnica, iluminación pública",3
+"iluminación pública, instalaciones eléctricas, RETILAP",3
+"iluminación pública, instalaciones eléctricas, normativa técnica",3
+"RETILAP, normativa técnica, iluminación pública",3
+"iluminación pública, instalaciones eléctricas, RETILAP",3
+"iluminación pública, supervisión, normativa técnica",3
+"instalaciones eléctricas, normativa técnica, supervisión",3
+"normativa técnica, RETILAP, supervisión",3
+"normativa técnica, supervisión, instalaciones eléctricas",3
+"iluminación pública, normativa técnica, supervisión",3
+"iluminación pública, supervisión, normativa técnica",3
+"supervisión, normativa técnica, instalaciones eléctricas",3
+"supervisión, instalaciones eléctricas, normativa técnica",3
+"RETILAP, supervisión, instalaciones eléctricas",3
+"instalaciones eléctricas, iluminación pública, RETILAP",3
+"normativa técnica, iluminación pública, supervisión",3
+"normativa técnica, instalaciones eléctricas, RETILAP",3
+"supervisión, instalaciones eléctricas, iluminación pública",3
+"supervisión, normativa técnica, iluminación pública",3
+"normativa técnica, iluminación pública, RETILAP",3
+"RETILAP, normativa técnica, supervisión",3
+"supervisión, normativa técnica, RETILAP",3
+"supervisión, instalaciones eléctricas, RETILAP",3
+"instalaciones eléctricas, RETILAP, iluminación pública",3
+"supervisión, RETILAP, iluminación pública",3
+"supervisión, normativa técnica, iluminación pública",3
+"RETILAP, iluminación pública, normativa técnica",3
+"normativa técnica, RETILAP, supervisión",3
+"iluminación pública, supervisión, normativa técnica",3
+"normativa técnica, instalaciones eléctricas, iluminación pública",3
+"supervisión, iluminación pública, instalaciones eléctricas",3
+"supervisión, iluminación pública, normativa técnica",3
+"RETILAP, instalaciones eléctricas, iluminación pública",3
+"RETILAP, iluminación pública, normativa técnica",3
+"Python, SQL, Excel",4
+"SQL, Data analysis, Power BI",4
+"Python, Power BI, Excel",4
+"Data analysis, SQL, Power BI",4
+"Power BI, Data analysis, SQL",4
+"Python, Power BI, Excel",4
+"SQL, Excel, Data analysis",4
+"Data analysis, Excel, Power BI",4
+"Excel, Power BI, Python",4
+"Python, SQL, Excel",4
+"Power BI, Python, SQL",4
+"Power BI, SQL, Data analysis",4
+"Data analysis, Power BI, SQL",4
+"SQL, Data analysis, Excel",4
+"Python, Excel, Data analysis",4
+"SQL, Power BI, Excel",4
+"SQL, Power BI, Data analysis",4
+"Power BI, Excel, Data analysis",4
+"Excel, SQL, Power BI",4
+"Data analysis, Power BI, Python",4
+"Excel, Python, Data analysis",4
+"SQL, Power BI, Excel",4
+"Power BI, Data analysis, Excel",4
+"Power BI, SQL, Data analysis",4
+"Power BI, Python, Data analysis",4
+"Python, Power BI, SQL",4
+"Data analysis, Excel, Power BI",4
+"Excel, SQL, Power BI",4
+"Python, Data analysis, SQL",4
+"Excel, Power BI, SQL",4
+"Power BI, Python, Data analysis",4
+"Excel, SQL, Power BI",4
+"Data analysis, Power BI, SQL",4
+"Excel, Python, Power BI",4
+"Power BI, Python, SQL",4
+"Data analysis, Excel, Python",4
+"Python, Data analysis, SQL",4
+"SQL, Data analysis, Excel",4
+"SQL, Data analysis, Excel",4
+"Excel, Data analysis, Power BI",4
+"Python, Excel, Data analysis",4
+"SQL, Power BI, Excel",4
+"Power BI, Data analysis, SQL",4
+"Data analysis, Excel, Power BI",4
+"Power BI, Data analysis, Excel",4
+"Excel, Python, Power BI",4
+"Python, Excel, Power BI",4
+"Data analysis, Excel, Python",4
+"Excel, Python, Data analysis",4
+"Excel, Python, Data analysis",4
+"SQL, Power BI, Data analysis",4
+"Python, Power BI, Data analysis",4
+"SQL, Excel, Data analysis",4
+"Excel, SQL, Data analysis",4
+"Data analysis, SQL, Power BI",4
+"SQL, Python, Data analysis",4
+"SQL, Python, Data analysis",4
+"SQL, Excel, Data analysis",4
+"Power BI, Excel, Data analysis",4
+"SQL, Python, Data analysis",4
+"Data analysis, Excel, Power BI",4
+"SQL, Python, Power BI",4
+"SQL, Python, Data analysis",4
+"SQL, Excel, Power BI",4
+"Python, Excel, SQL",4
+"Python, Data analysis, Excel",4
+"SQL, Data analysis, Python",4
+"Excel, Power BI, Data analysis",4
+"SQL, Power BI, Data analysis",4
+"SQL, Data analysis, Python",4
+"Python, Power BI, Excel",4
+"Data analysis, Power BI, Python",4
+"Python, Data analysis, SQL",4
+"Python, Data analysis, SQL",4
+"Power BI, SQL, Data analysis",4
+"SQL, Power BI, Excel",4
+"Python, Power BI, Excel",4
+"SQL, Power BI, Data analysis",4
+"Excel, Power BI, Python",4
+"Power BI, SQL, Excel",4
+"Power BI, SQL, Data analysis",4
+"Data analysis, Power BI, Python",4
+"Excel, Power BI, Data analysis",4
+"Power BI, Python, SQL",4
+"Excel, Python, Data analysis",4
+"SQL, Data analysis, Power BI",4
+"Excel, Power BI, SQL",4
+"Power BI, Data analysis, SQL",4
+"Excel, Power BI, SQL",4
+"Python, Power BI, SQL",4
+"Excel, Power BI, SQL",4
+"Python, Data analysis, SQL",4
+"Data analysis, SQL, Power BI",4
+"Python, Excel, SQL",4
+"Excel, Power BI, SQL",4
+"Data analysis, Power BI, Python",4
+"Power BI, Data analysis, Python",4
+"SQL, Power BI, Excel",4
+"SQL, Data analysis, Power BI",4
+"Power BI, Python, Data analysis",4
+"Ley 18 de 1990, seguridad pública, compliance",5
+"normativas urbanas, Ley 18 de 1990, seguridad pública",5
+"normativas urbanas, Ley 18 de 1990, compliance",5
+"Ley 18 de 1990, compliance, seguridad pública",5
+"consultoría legal, normativas urbanas, Ley 18 de 1990",5
+"compliance, seguridad pública, Ley 18 de 1990",5
+"Ley 18 de 1990, seguridad pública, compliance",5
+"Ley 18 de 1990, seguridad pública, normativas urbanas",5
+"seguridad pública, consultoría legal, Ley 18 de 1990",5
+"Ley 18 de 1990, normativas urbanas, consultoría legal",5
+"compliance, seguridad pública, normativas urbanas",5
+"compliance, consultoría legal, seguridad pública",5
+"compliance, consultoría legal, normativas urbanas",5
+"normativas urbanas, Ley 18 de 1990, seguridad pública",5
+"consultoría legal, Ley 18 de 1990, seguridad pública",5
+"normativas urbanas, consultoría legal, seguridad pública",5
+"normativas urbanas, consultoría legal, seguridad pública",5
+"seguridad pública, consultoría legal, normativas urbanas",5
+"Ley 18 de 1990, seguridad pública, normativas urbanas",5
+"Ley 18 de 1990, normativas urbanas, consultoría legal",5
+"seguridad pública, consultoría legal, Ley 18 de 1990",5
+"Ley 18 de 1990, compliance, consultoría legal",5
+"consultoría legal, normativas urbanas, seguridad pública",5
+"Ley 18 de 1990, seguridad pública, normativas urbanas",5
+"consultoría legal, normativas urbanas, compliance",5
+"normativas urbanas, Ley 18 de 1990, seguridad pública",5
+"consultoría legal, Ley 18 de 1990, seguridad pública",5
+"seguridad pública, consultoría legal, normativas urbanas",5
+"consultoría legal, Ley 18 de 1990, compliance",5
+"consultoría legal, Ley 18 de 1990, compliance",5
+"normativas urbanas, Ley 18 de 1990, seguridad pública",5
+"Ley 18 de 1990, normativas urbanas, seguridad pública",5
+"normativas urbanas, compliance, Ley 18 de 1990",5
+"consultoría legal, seguridad pública, normativas urbanas",5
+"normativas urbanas, compliance, consultoría legal",5
+"compliance, Ley 18 de 1990, seguridad pública",5
+"compliance, Ley 18 de 1990, seguridad pública",5
+"consultoría legal, compliance, seguridad pública",5
+"consultoría legal, compliance, normativas urbanas",5
+"compliance, Ley 18 de 1990, consultoría legal",5
+"Ley 18 de 1990, normativas urbanas, compliance",5
+"consultoría legal, compliance, normativas urbanas",5
+"compliance, normativas urbanas, seguridad pública",5
+"consultoría legal, Ley 18 de 1990, compliance",5
+"consultoría legal, Ley 18 de 1990, seguridad pública",5
+"normativas urbanas, compliance, Ley 18 de 1990",5
+"normativas urbanas, Ley 18 de 1990, compliance",5
+"consultoría legal, normativas urbanas, Ley 18 de 1990",5
+"consultoría legal, Ley 18 de 1990, normativas urbanas",5
+"seguridad pública, compliance, normativas urbanas",5
+"seguridad pública, consultoría legal, normativas urbanas",5
+"seguridad pública, consultoría legal, Ley 18 de 1990",5
+"compliance, consultoría legal, seguridad pública",5
+"Ley 18 de 1990, seguridad pública, consultoría legal",5
+"compliance, Ley 18 de 1990, normativas urbanas",5
+"compliance, seguridad pública, consultoría legal",5
+"consultoría legal, compliance, normativas urbanas",5
+"Ley 18 de 1990, seguridad pública, compliance",5
+"consultoría legal, seguridad pública, normativas urbanas",5
+"compliance, consultoría legal, normativas urbanas",5
+"seguridad pública, consultoría legal, compliance",5
+"seguridad pública, normativas urbanas, consultoría legal",5
+"seguridad pública, Ley 18 de 1990, consultoría legal",5
+"Ley 18 de 1990, compliance, consultoría legal",5
+"Ley 18 de 1990, compliance, normativas urbanas",5
+"Ley 18 de 1990, normativas urbanas, compliance",5
+"Ley 18 de 1990, compliance, seguridad pública",5
+"compliance, normativas urbanas, seguridad pública",5
+"normativas urbanas, Ley 18 de 1990, compliance",5
+"compliance, normativas urbanas, Ley 18 de 1990",5
+"normativas urbanas, compliance, Ley 18 de 1990",5
+"Ley 18 de 1990, seguridad pública, normativas urbanas",5
+"consultoría legal, Ley 18 de 1990, normativas urbanas",5
+"compliance, normativas urbanas, seguridad pública",5
+"seguridad pública, consultoría legal, Ley 18 de 1990",5
+"compliance, seguridad pública, Ley 18 de 1990",5
+"compliance, normativas urbanas, seguridad pública",5
+"Ley 18 de 1990, seguridad pública, compliance",5
+"normativas urbanas, seguridad pública, consultoría legal",5
+"normativas urbanas, compliance, Ley 18 de 1990",5
+"seguridad pública, compliance, Ley 18 de 1990",5
+"compliance, consultoría legal, normativas urbanas",5
+"seguridad pública, consultoría legal, compliance",5
+"Ley 18 de 1990, seguridad pública, normativas urbanas",5
+"seguridad pública, normativas urbanas, Ley 18 de 1990",5
+"consultoría legal, normativas urbanas, seguridad pública",5
+"seguridad pública, compliance, consultoría legal",5
+"seguridad pública, consultoría legal, compliance",5
+"normativas urbanas, consultoría legal, compliance",5
+"seguridad pública, compliance, Ley 18 de 1990",5
+"consultoría legal, seguridad pública, compliance",5
+"Ley 18 de 1990, seguridad pública, consultoría legal",5
+"consultoría legal, seguridad pública, normativas urbanas",5
+"consultoría legal, compliance, normativas urbanas",5
+"compliance, consultoría legal, seguridad pública",5
+"seguridad pública, Ley 18 de 1990, consultoría legal",5
+"Ley 18 de 1990, consultoría legal, normativas urbanas",5
+"compliance, Ley 18 de 1990, consultoría legal",5
+"Ley 18 de 1990, normativas urbanas, compliance",5
+"consultoría legal, normativas urbanas, seguridad pública",5
